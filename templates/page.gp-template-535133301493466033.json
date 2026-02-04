@@ -1,0 +1,29 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_535133473661256528": {
+      "settings": {
+        "checksum": "f51cde5f5781a23f792ee2e46984803db38853cc8785bfdec92f40fb06982368_1_1_0_0__1",
+        "gg5esf7BXvR_text": "<p>Off-Road Racer</p>",
+        "ggILw6TR4_g_text": "<p>Rated 4.5/5 Based on 895 Reviews</p>",
+        "ggOUgC7wsn9_text": "Enjoy an amazing <span style=\"color:#7DD0E8;\">30% off!</span>",
+        "ggXqpp51IDc_text": "<p>Don't let this incredible opportunity slip away! Own the ultimate RC off-road vehicle now!</p>",
+        "gg_sWO-z1GP_childItem_0": "<p>30-day money-back guarantee included&nbsp;</p>",
+        "ggtWBK6Fh7q_label": "Don’t Miss Out",
+        "section_preload": "true"
+      },
+      "type": "gp-section-535133473661256528"
+    }
+  },
+  "order": [
+    "gp_section_535133473661256528"
+  ]
+}
