@@ -1,0 +1,24 @@
+{% for block in section.blocks %}
+  {{ block }}
+{% endfor %}
+
+{% schema %}
+{
+  "name": "Not Found",
+  "blocks": [
+    {
+      "type": "heading",
+      "name": "Heading",
+      "limit": 1,
+      "settings": [
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title",
+          "default": "Hello World"
+        }
+      ]
+    }
+  ]
+}
+{% endschema %}
